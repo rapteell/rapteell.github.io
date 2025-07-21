@@ -1,5 +1,5 @@
 ---
-title: Info
+title: Інформація
 layout: page
 permalink: /info
 store: false
