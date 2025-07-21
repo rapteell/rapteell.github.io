@@ -7,7 +7,7 @@ dribbble:
 facebook:
 flickr:
 gitlab:
-github:
+github: true
 instagram:
 keybase:
 linkedin:
