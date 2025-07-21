@@ -1,0 +1,194 @@
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.4.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson та Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien та Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "legodude17 та Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arlechin",
+    "name": "Vanilla Events Expanded - Український переклад",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.8+f0cd0b42a8a534705702e23e3cdd71f9c38f935f"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ren7z",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrFisse",
+    "name": "Better Ground Textures?",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4518.1"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.1.0.0"
+  },
+  {
+    "author": "Spdskatr та CaesarV6",
+    "name": "Damage Indicators [1.6]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.19+38e3c1d37efeaa968b36bbea039239ab0b121eb5"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.3.2.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Usagirei",
+    "name": "Pocket Sand",
+    "steamId": "2226330302",
+    "version": "1.0-20210719-030003"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
+    "author": "Divinorium",
+    "name": "Tainted Renaming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool! (Continued)",
+    "steamId": "2947023388",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "1.6.1.0+492f9a497c6ad041f5de422ae8b708e2c21d8cfa"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+  },
+  {
+    "author": "Farxmai2",
+    "name": "Українська мова для Dubs Mods [UA]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farxmai2",
+    "name": "Українська мова для базової гри та модів [UA]",
+    "steamId": null,
+    "version": null
+  }
+]
