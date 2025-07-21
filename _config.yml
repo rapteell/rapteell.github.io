@@ -3,7 +3,7 @@ title: "Перелік придбань для Toolkit"
 favicon: assets/img/favicon.png
 description: Перероблена версія Toolkit's item list з підтримкою Utils.
 
-baseurl: '/toolkitlist' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'rapteell'
