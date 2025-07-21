@@ -39,11 +39,11 @@ search_events: 'Пошукати події...'
 search_weapons: 'Пошукати зброю...'
 
 # Metadata
-usage: 'Вартість: %s'
+usage: 'Використання: %s'
 shortcut: 'Посилання на %s'
 stats: 'Характеристики'
 conflicts_with: 'Несумісний з'
-from: 'Від %s'
+from: 'Джерело %s'
 weight: 'Вага'
 limit: 'Обмеження'
 karma: 'Карма'
