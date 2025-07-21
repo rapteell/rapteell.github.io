@@ -16,9 +16,9 @@ description_header: Опис
 cost_header: Вартість
 category_header: Категорія
 karma_type_header: Тип Карми
-add_cost_header: Додати Вартість
-remove_cost_header: Відняти Вартість
-name_header: Ім'я
+add_cost_header: Додати
+remove_cost_header: Прибрати
+name_header: Назва
 
 # Error messages
 no_commands: 'Це не ті команди, які ви шукаєте!'
