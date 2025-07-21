@@ -7,18 +7,18 @@ weapons_tab: 'Зброя'
 pawn_kinds_tab: 'Пішаки'
 
 # Table headers
-mod_name_header: Mod Name
-author_header: Author
-version_header: Version
-command_name_header: Command Name
-user_level_header: User Level
-description_header: Description
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
-add_cost_header: Add Cost
-remove_cost_header: Remove Cost
-name_header: Name
+mod_name_header: Назва Моду
+author_header: Автор
+version_header: Версія
+command_name_header: Назва Команди
+user_level_header: Використання
+description_header: Опис
+cost_header: Вартість
+category_header: Категорія
+karma_type_header: Тип Карми
+add_cost_header: Додати Вартість
+remove_cost_header: Відняти Вартість
+name_header: Ім'я
 
 # Error messages
 no_commands: 'Це не ті команди, які ви шукаєте!'
@@ -29,14 +29,14 @@ see_kinds: 'Подивитися вартість в розділі "Пішак�
 see_items: 'Подивитися вартість в розділі "Предмети"'
 
 # Search texts
-search_items: 'Пошукати предмет...'
-search_traits: 'Пошукати риси...'
-search_pawn_kinds: 'Пошукати пішаків...'
-search_mods: 'Пошукати моди...'
-search_commands: 'Пошукати команди...'
-search_animals: 'Пошукати тварин...'
-search_events: 'Пошукати події...'
-search_weapons: 'Пошукати зброю...'
+search_items: 'Шукати предмет...'
+search_traits: 'Шукати риси...'
+search_pawn_kinds: 'Шукати пішаків...'
+search_mods: 'Шукати моди...'
+search_commands: 'Шукати команди...'
+search_animals: 'Шукати тварин...'
+search_events: 'Шукати події...'
+search_weapons: 'Шукати зброю...'
 
 # Metadata
 usage: 'Використання: %s'
