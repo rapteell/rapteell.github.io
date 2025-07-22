@@ -36,70 +36,64 @@ store: false
     {%- endif -%}
 {%- endfor -%}
 
-# Welcome
+# Ласкаво просимо
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
-users, but this short guide will help you get the hang of things.
+Ласкаво просимо на стрім [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}).
+Цей стрім використовує мод
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=3013874066) для забезпечення
+інтерактивного досвіду. У цьому моді є багато речей, які можуть здатися складними навіть досвідченим
+користувачам, але цей короткий посібник допоможе вам розібратися з ними.
 
-## What is Twitch Toolkit?
+## Що таке Twitch Toolkit?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+Twitch Toolkit - це мод від hodlhodl, який дозволяє глядачам впливати на гру кількома способами. 
+Найвідомішим є його [крамниця]({{- "/" | relative_url -}}), яка дозволяє вам придбати низку речей, які курує стрімер. 
+Залежно від покупки, ці речі з'являються в грі або якимось чином впливають на гру. Ще один спосіб взаємодії 
+глядачів з грою - це опитування, які проводить модератор. Вибір в цих опитуваннях значною мірою залежить від того, що увімкнено в моді.
 
-## What Are Coins?
+## Що таке Coins?
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+Coins - це валюта моду. Ви можете переглянути свій баланс за допомогою команди `{{ bal }}`. 
 
 {% if utils == true %}
-You'll notice the balance command may have some new emojis. If that's the case, here is an overview
-of the emojis as follows:
+Ви можете помітити що результат використання команди може містити нові смайлики. 
+Якщо це так, то ось опис цих смайликів:
 
-- 💰 represents the amount of coins you current have.
-- ⚖ represents your current karma.
-- 📈 represents the amount of coins you gain everytime the mod awards coins.
-- 📉 represents the amount of coins you lose everytime to mod awards coins.
+- 💰 позначає кількість монет, яку ви маєте на даний момент.
+- ⚖  позначає вашу поточну карму.
+- 📈 позначає кількість монет, які ви отримуєте щоразу, коли мод нараховує coins.
+- 📉 позначає кількість монет, які ви втрачаєте щоразу, коли мод нараховує coins.
 
 {% endif %}
 
-
 {%- if lootboxes == true -%}
-You'll also notice that you'll get a message from the bot about a lootbox. You can open this lootbox
-by using the `!openlootbox` command, as well as check the number of lootboxes you have with `!lootboxes`.
-You'll always get a new lootbox everyday.
+Ви також помітите, що отримаєте повідомлення від бота про наявність лутбоксу. Ви можете відкрити цей лутбокс
+за допомогою команди `!openlootbox`, а також перевірити кількість лутбоксів за допомогою `!lootboxes`.
+Ви завжди будете отримувати новий лутбокс щодня.
 {%- endif -%}
 
 
 <br/>
-## What is Karma?
+## Що таке карма?
 
-Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
-one time. This system works by directly modifying that amount of coins viewers get everytime the mod
-awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
-negative events get spread out more so the colony can recover.
+Карма - це система, яка намагається обмежити кількість негативних подій, які глядач може придбати за один раз. 
+Ця система працює, безпосередньо змінюючи кількість coins, які глядачі періодично отримують. Це означає, що 
+чим нижча ваша карма, тим менше ви отримаєте. З надією на те, що негативні події стануть менш інтенсивними, і колонія зможе відновитися.
 
-## How Do I Use Twitch Toolkit?
-
-You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
-command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
-every command here, but most commands should generally be self-descriptive or have a description of
-what they do on the [commands]({{- "/commands" | relative_url -}}) page.
+Ви можете використовувати Twitch Toolkit кількома способами, найпоширеніший з яких - через 
+[команди]({{- "/commands" | relative_url -}}). Найважливішою командою є команда `{{- buy -}}`, 
+яка є "точкою входу" до купівлі речей у крамниці. Іншими помітними командами є команди з префіксом `!mypawn`, 
+які дозволяють вам бачити різноманітну інформацію про вашого пішака. Ми не розглядатимемо
+кожну команду тут, але більшість команд мають бути очевидними або мати опис того, що вони роблять, на сторінці [команди]({{- "/commands" | relative_url -}}).
 
 
 {%- if puppeteer -%}
 <br/>
-## What is Puppeteer?
+## Що таке Puppeteer?
 
-[Puppeteer](https://steamcommunity.com/sharedfiles/filedetails/?id=2057192142) is a mod by Brrainz that
-allows viewers to directly control their pawns, and even view a number of information about your pawn in
-a graphical way. It also redirects some of the responses from Twitch Toolkit to its website to clean up
-chat a bit. So, if you're logged into Puppeeter and you're wondering why the bot isn't responding to you,
-you should check the `TT` tab on the website first.
+[Puppeteer](https://steamcommunity.com/sharedfiles/filedetails/?id=2057192142) - це мод від Brrainz, який
+дозволяє глядачам безпосередньо керувати своїми пішаками, і навіть переглядати деяку інформацію про вашого пішака у
+графічному вигляді. Він також перенаправляє деякі відповіді з Twitch Toolkit на свій сайт, щоб трохи почистити чат
+. Отже, якщо ви увійшли в Puppeeter і вам цікаво, чому бот не відповідає вам,
+спершу перевірте вкладку `TT` на сайті.
 {%- endif -%}
