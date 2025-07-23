@@ -1,8 +1,4 @@
-header {
-    background-color: #8fefff;
-}
-
-body {
+document {
     background-color: #adf3ff;
 }
 
@@ -75,7 +71,7 @@ th.version {
   width: 20%;
 }
 td.description {
-    font-size: 0.65em;
+    font-size: 0.7em;
 }
 span.eventRedirect {
   cursor: pointer;
@@ -83,7 +79,7 @@ span.eventRedirect {
   color: #22527b;
 }
 span.metadata {
-    font-size: 0.7em;
+    font-size: 1em;
     padding: 0px;
     font-style: italic;
     color: #121210;
