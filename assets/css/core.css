@@ -44,7 +44,7 @@ body {
     padding: 12px 20px 12px 40px;
     border: 1px solid #dddddd;
     margin-bottom: 12px;
-    background-color: #dddddd;
+    background-color: #d7f2f7;
 }
 
 table {
@@ -80,7 +80,7 @@ span.eventRedirect {
   color: #1a3d5c;
 }
 span.metadata {
-    font-size: 10px;
+    font-size: 12px;
     padding: 0px;
     font-style: italic;
     color: #4a4a4a;
