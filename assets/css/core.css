@@ -1,5 +1,9 @@
+head {
+    background-color: #8fefff;
+}
+
 body {
-    background-color: #6ac8d9;
+    background-color: #adf3ff;
 }
 
 .tab {
@@ -71,7 +75,7 @@ th.version {
   width: 20%;
 }
 td.description {
-    font-size: 0.7em;
+    font-size: 0.65em;
 }
 span.eventRedirect {
   cursor: pointer;
@@ -87,16 +91,16 @@ span.metadata {
 
 @media screen and (max-width: break) {
   th.priceWithData {
-    font-size: 0.8em;
+    font-size: 1em;
   }
   th.price {
-      font-size: 0.8em;
+      font-size: 1em;
   }
   td.description {
-    font-size: 0.7em;
+    font-size: 1em;
   }
   span.metadata {
-    font-size: 0.7em;
+    font-size: 1em;
     padding: 0;
     font-style: italic;
     color: #121210;
