@@ -44,11 +44,11 @@
 
 table {
     display: table;
-    background-color: #cfcfaf;
+    background-color: #f2f2bd;
 }
 
 th {
-  font-size: 0.7em;
+  font-size: 0.8em;
 }
 
 th.priceWithData {
@@ -67,7 +67,7 @@ th.version {
   width: 20%;
 }
 td.description {
-    font-size: 0.6em;
+    font-size: 0.7em;
 }
 span.eventRedirect {
   cursor: pointer;
@@ -78,40 +78,40 @@ span.metadata {
     font-size: 0.6em;
     padding: 0px;
     font-style: italic;
-    color: #5a5454;
+    color: #121210;
 }
 
 @media screen and (max-width: break) {
   th.priceWithData {
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
   th.price {
-      font-size: 0.7em;
+      font-size: 0.8em;
   }
   td.description {
     font-size: 0.7em;
   }
   span.metadata {
-    font-size: 0.55em;
+    font-size: 0.7em;
     padding: 0;
     font-style: italic;
-    color: #332b23;
+    color: #121210;
   }
 }
 
 @media screen and (max-width: sm-break) {
   th.priceWithData {
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
   th.price {
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
   td.description {
-    font-size: 0.6em;
+    font-size: 0.7em;
   }
   span.metadata {
-    font-size: 0.55em;
+    font-size: 0.7em;
     font-style: italic;
-    color: #24221f;
+    color: #121210;
   }
 }
