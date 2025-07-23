@@ -44,7 +44,7 @@ body {
     padding: 12px 20px 12px 40px;
     border: 1px solid #dddddd;
     margin-bottom: 12px;
-    background-color: #ccdee0;
+    background-color: #dddddd;
 }
 
 table {
@@ -77,13 +77,13 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color: #22527b;
+  color: #1a3d5c;
 }
 span.metadata {
-    font-size: 0.8em;
+    font-size: 10px;
     padding: 0px;
     font-style: italic;
-    color: red;
+    color: #4a4a4a;
 }
 
 @media screen and (max-width: break) {
@@ -100,7 +100,7 @@ span.metadata {
     font-size: 0.6em;
     padding: 0;
     font-style: italic;
-    color: green;
+    color: 121210;
   }
 }
 
