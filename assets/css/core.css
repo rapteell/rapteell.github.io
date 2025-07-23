@@ -71,7 +71,7 @@ th.version {
   width: 20%;
 }
 td.description {
-    font-size: 1em;
+    font-size: 0.7em;
 }
 span.eventRedirect {
   cursor: pointer;
@@ -79,7 +79,7 @@ span.eventRedirect {
   color: #22527b;
 }
 span.metadata {
-    font-size: 0.7em;
+    font-size: 0.8em;
     padding: 0px;
     font-style: italic;
     color: #121210;
@@ -87,16 +87,16 @@ span.metadata {
 
 @media screen and (max-width: break) {
   th.priceWithData {
-    font-size: 1em;
+    font-size: 0.8em;
   }
   th.price {
-      font-size: 1em;
+      font-size: 0.8em;
   }
   td.description {
-    font-size: 1em;
+    font-size: 0.7em;
   }
   span.metadata {
-    font-size: 1em;
+    font-size: 0.6em;
     padding: 0;
     font-style: italic;
     color: #121210;
@@ -105,16 +105,16 @@ span.metadata {
 
 @media screen and (max-width: sm-break) {
   th.priceWithData {
-    font-size: 1em;
+    font-size: 0.8em;
   }
   th.price {
-    font-size: 1em;
+    font-size: 0.8em;
   }
   td.description {
-    font-size: 1em;
+    font-size: 0.7em;
   }
   span.metadata {
-    font-size: 1em;
+    font-size: 0.6em;
     font-style: italic;
     color: #121210;
   }
