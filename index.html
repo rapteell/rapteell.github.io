@@ -6,7 +6,7 @@ store: true
 
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
-{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Тварини" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
+{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animals" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
 {%- assign traitsForDisplay = '' | split: ',' -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign weaponsForDisplay = '' | split: ',' -%}
