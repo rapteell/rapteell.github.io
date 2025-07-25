@@ -1,6 +1,6 @@
 header.site-header {
     background-color: #adf3ff;
-    position: sticky;
+    position: fixed;
 }
 
 body {
