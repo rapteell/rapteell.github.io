@@ -28,7 +28,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
@@ -53,7 +53,7 @@ store:
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
-  shortcut: true
+  shortcut: false
   # Whether or not the command list will display the command's required user level.
   userlevel: true
   # Whether or not the command list will display the command's uage.
