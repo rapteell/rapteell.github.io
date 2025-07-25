@@ -6,7 +6,7 @@ store: true
 
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
-{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animal" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
+{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Тварини" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
 {%- assign traitsForDisplay = '' | split: ',' -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign weaponsForDisplay = '' | split: ',' -%}
@@ -21,12 +21,12 @@ store: true
 {%- continue -%}
 {%- endif -%}
 
-{%- if item.category == "Animals" -%}
+{%- if item.category == "Тварини" -%}
 {%- assign animalsForDisplay = animalsForDisplay | push: item | sort: "abr" -%}
 {%- continue -%}
 {%- endif -%}
 
-{%- if item.category != "Animal" -%}
+{%- if item.category != "Тварини" -%}
 {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
 {%- continue -%}
 {%- endif -%}
