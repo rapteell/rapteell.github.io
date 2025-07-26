@@ -61,7 +61,7 @@ th {
     font-size: 0.9em;
     font-style: bold;
     cursor: pointer;
-    background-color: #ffffae;
+    background-color: #ffffcc;
 }
 
 th.priceWithData {
@@ -85,7 +85,7 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color: #1a3d5c;
+  color: #4a4a4a;
 }
 span.metadata {
     font-size: 12px;
@@ -108,7 +108,7 @@ span.metadata {
     font-size: 0.6em;
     padding: 0;
     font-style: italic;
-    color: 121210;
+    color: #4a4a4a;
   }
 }
 
@@ -125,6 +125,6 @@ span.metadata {
   span.metadata {
     font-size: 0.6em;
     font-style: italic;
-    color: #121210;
+    color: #4a4a4a;
   }
 }
