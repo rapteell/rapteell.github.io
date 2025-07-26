@@ -1,16 +1,16 @@
 header.site-header {
-    background-color: #ddffff;
+    background-color: #aeecff;
     position: fixed;
 }
 
 body {
-    background-color: #ddffff;
+    background-color: #aeecff;
 }
 
 .tab {
     overflow: hidden;
-    border: 1px solid #ddeeffaa;
-    background-color: #ddeeff;
+    border: 1px solid #8ae4ffaa;
+    background-color: #8ae4ff;
 }
 
 .tab button {
@@ -24,7 +24,7 @@ body {
 }
 
 .tab button:hover {
-    background-color: #ddeeffaa;
+    background-color: #5cd9ff;
 }
 
 .tabContent {
@@ -47,21 +47,21 @@ body {
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #ddeeff;
+    border: 1px solid #8ae4ff;
     margin-bottom: 12px;
-    background-color: #ddffffaa;
+    background-color: #8ae4ffaa;
 }
 
 table {
     display: table;
-    background-color: #ffffddaa;
+    background-color: #ffffdd;
 }
 
 th {
     font-size: 0.9em;
     font-style: bold;
     cursor: pointer;
-    background-color: #ffffdd;
+    background-color: #ffffae;
 }
 
 th.priceWithData {
