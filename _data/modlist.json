@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -30,6 +30,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki та XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
     "author": "Arlechin",
     "name": "Vanilla Events Expanded - Український переклад",
     "steamId": null,
@@ -39,7 +45,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.10+a697e05eae98b48aa1504eddffa1f623df4add7d"
+    "version": "1.7.11+fb08cf0c8ced2b8463f6ea26928b369e0796a3a0"
   },
   {
     "author": "Dubwise",
@@ -87,7 +93,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4518.1"
+    "version": "1.6.4553.2"
   },
   {
     "author": "Nals",
@@ -99,7 +105,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "4.1.0.0"
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "Spdskatr та CaesarV6",
@@ -156,6 +162,24 @@
     "version": "1.6.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Research Tree (Continued)",
+    "steamId": "3030499331",
+    "version": "1.6.1"
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Craft with Color",
+    "steamId": "2795998250",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
@@ -165,7 +189,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.17.4+b09e96041e317120e699b719d9171a1e2452b2fe"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "nry",
@@ -183,7 +207,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Ananac_0",
@@ -194,12 +218,6 @@
   {
     "author": "Farxmai2",
     "name": "Українська мова для Dubs Mods [UA]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farxmai2",
-    "name": "Українська мова для базової гри та модів [UA]",
     "steamId": null,
     "version": null
   }

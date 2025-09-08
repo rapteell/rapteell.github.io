@@ -244,7 +244,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Приклад: !buy ніж . Для купівлі предмета з певного матеріала !buy ніж[матеріалУкраїнською], для купівлі предмета певної якості !buy ніж[quality(Англійською)], також можна одночасно вказати матеріал та якість !buy ніж[пласталь,good] (прим: після коми пробіл не ставимо).",
+    "description": null,
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -1169,5 +1169,4 @@
     "shortcut": false,
     "defName": "HelloWorld"
   }
-
 ]
