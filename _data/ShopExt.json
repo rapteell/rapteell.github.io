@@ -1677,6 +1677,54 @@
       },
       "defName": "Immunity",
       "name": "слабкийімунітет"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy має тендітну шкіру та кістки. він отримує більше пошкоджень, ніж інші люди від таких самих ударів.",
+      "stats": [
+        "x115% множник вхідної шкоди"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% множник вхідної шкоди"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Biotech",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Delicate",
+      "name": "делікатність"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Чим менше людей у фракції Timmy - тим він щасливіше. Бути самітником - найкращий варіант.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Biotech",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Recluse",
+      "name": "відлюдькуватість"
     }
   ],
   "races": [
@@ -1701,7 +1749,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "людина",
-      "price": 2917
+      "price": 1500
     }
   ]
 }

@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.1.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -166,6 +166,12 @@
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
     "version": "1.6.1"
+  },
+  {
+    "author": "Bradson та Gordohn",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.1.2+49d56f6e2064b08bf24583a0f82b3e599731cf9c"
   },
   {
     "author": "kathanon",
