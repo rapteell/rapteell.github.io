@@ -244,7 +244,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Синтаксис для придбання зі вказівкою матеріалу(локалізована назва)/якості(англійською), якщо доступно: !buy предмет[матеріал,якість] .",
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -1169,4 +1169,5 @@
     "shortcut": false,
     "defName": "HelloWorld"
   }
+
 ]
