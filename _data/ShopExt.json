@@ -4,7 +4,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy насолоджується відчуттям свободи, яке приходить від оголеності. він може носити одяг, але без нього буде щасливіше.",
       "stats": [],
@@ -26,7 +26,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy отримує задоволення від завдання шкоди людям та не звертає увагу, чия це кров чи смерть. він буде затівати свару в чотири рази частіше.",
       "stats": [],
@@ -48,7 +48,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy є винятково доброю людиною. він має здатність за допомогою слів покращити чийсь день. він ніколи не ображає інших, і ніколи не оцінює людей за їхньою зовнішністю.",
       "stats": [],
@@ -76,7 +76,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy не вміє співчувати. Страждання інших його зовсім не турбують. йому байдуже, якщо інших вбивають, залишають непохованим, ув’язнюють або продають у рабство, допоки це не впливає на особисто на PAWN_gender ? нього : неї. він також не отримує задоволення від спілкування.",
       "stats": [],
@@ -98,7 +98,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? вихований : вихована на тому, що поїдання людського м'яса - це неправильно та жахливо. Але одного разу йому випало його спробувати... і він PAWN_gender ? отримав : отримала від цього задоволення.",
       "stats": [],
@@ -120,7 +120,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy завжди каже те, про що думає, особливо коли його щось дратує. Зазвичай це призводить до погіршення відносин з навколишніми людьми.",
       "stats": [],
@@ -142,7 +142,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy страждає від свого ж розуму. він пізнає все з небувалою швидкістю, але іноді може вести себе доволі екстравагантно.",
       "stats": [
@@ -182,11 +182,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy полюбляє битися один-на-один. Точність його ударів зблизька значно збільшена, але він буде дуже PAWN_gender ? незадоволеним : незадоволеною, якщо дати йому далекобійну зброю.",
       "stats": [
-        "Соколине око inspiration disabled.",
+        "Натхнення \"Соколине око\" вимкнено.",
         "+4 Ближній бій",
         "-10 Стрільба",
         "+4.0 шанс удару ближнього бою"
@@ -204,7 +204,7 @@
           "кволість"
         ],
         "stats": [
-          "Соколине око inspiration disabled.",
+          "Натхнення \"Соколине око\" вимкнено.",
           "+4 Ближній бій",
           "-10 Стрільба",
           "+4.0 шанс удару ближнього бою"
@@ -222,7 +222,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy отримує задоволення від болю. він не знає чому так, може він PAWN_gender ? влаштований : влаштована по-іншому.",
       "stats": [],
@@ -248,7 +248,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy любить бути на ногах вночі та спати протягом дня.\n\nйого настрій покращується, якщо він прокидається вночі (23:00 - 6:00); і погіршується, якщо прокидається протягом дня (11:00 - 18:00).\n\nйого настрій не погіршується, якщо він знаходиться у темряві.",
       "stats": [],
@@ -270,7 +270,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy потребує дійсно розкішної спочивальні. його настрій погіршується, якщо він не отримує, що хоче.",
       "stats": [],
@@ -298,7 +298,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Для Timmy принизливий той факт, що чужа спочивальня краща за його власну. його настрій погіршується, якщо інший колоніст має кращу спочивальню.",
       "stats": [],
@@ -326,7 +326,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy не отримує задоволення від матеріальних благ та розваг, віддаючи перевагу простому та чистому способу життя. він буде PAWN_gender ? незадоволеним : незадоволеною, якщо отримає розкішну спочивальню. він також не любить екстравагантну їжу та надає перевагу сирій. він ніколи не оцінює інших за їхньою зовнішністю.",
       "stats": [],
@@ -356,7 +356,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy закохується в людей своєї статі.",
       "stats": [],
@@ -378,7 +378,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy романтично цікавиться як чоловіками, так і жінками.",
       "stats": [],
@@ -400,7 +400,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Інші не мають сексуальної привабливості для Timmy.",
       "stats": [],
@@ -422,7 +422,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy має скрипучий та гугнявий голос, і говорить гримаючи відривчасті фрази. Передбачувано, що інші негативно ставляться до PAWN_gender ? нього : неї.",
       "stats": [],
@@ -444,7 +444,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy постійно має тяжке дихання та пітніє весь час. Інші вважають це моторошним.",
       "stats": [],
@@ -466,18 +466,18 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy обожнює вогонь, він ніколи не буде гасити пожежу.\nЩоб зняти стрес, він, час від часу, PAWN_gender ? сам : сама влаштовує пожежі. Це трапляється частіше, якщо у PAWN_gender ? нього : неї поганий настрій.",
       "stats": [
-        "Only mental break \"FireStartingSpree\" allowed."
+        "Лише психічний зрив \"FireStartingSpree\" дозволено."
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "Only mental break \"FireStartingSpree\" allowed."
+          "Лише психічний зрив \"FireStartingSpree\" дозволено."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -492,7 +492,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy слабка та боязлива людина. Навіть невеликий біль виводить його з ладу.",
       "stats": [
@@ -524,7 +524,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy володіє надзвичайною спритністю. він неймовірно добре вміє уникати небезпечних ситуацій.",
       "stats": [
@@ -552,7 +552,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy має здібності до навчання, він навчається швидше за інших.",
       "stats": [
@@ -578,7 +578,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy має проблеми з розвитком, він навчається набагато повільніше за інших.",
       "stats": [
@@ -608,7 +608,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy вважає за краще знаходитись під землею та не потребує свіжого повітря чи сонячного світла. він не страждає від клаустрофобії та не боїться темряви незалежно від того, скільки часу він знаходиться в приміщені.",
       "stats": [],
@@ -630,7 +630,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy відчуває обмеженість у слабкому людському тілі. він часто мріє про штучні частини тіла.",
       "stats": [],
@@ -656,7 +656,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy вважає, що людське тіло обмежене не без причин. Для PAWN_gender ? нього : неї, наявність штучних частин тіла є неетичним і огидним.",
       "stats": [],
@@ -682,7 +682,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy не любить чоловіків та сильно сумнівається в них.",
       "stats": [],
@@ -704,7 +704,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy не любить жінок та сильно сумнівається в них.",
       "stats": [],
@@ -726,7 +726,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy має фантастичну пам'ять на деталі. Навички, якими він не користується, деградують вдвічі повільніше, в порівнянні з іншими людьми.",
       "stats": [],
@@ -748,7 +748,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy має товсту шкіру, щільне м’ясо та міцні кістки. він отримує набагато менше пошкоджень, ніж інші люди від такої же шкоди. його надзвичайно важко вбити.",
       "stats": [
@@ -774,7 +774,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy відчуває відчуження та нерозуміння з боку інших людей. Через це, він завжди має погіршений настрій, але, після нервового зриву, може отримати натхнення для творчості.",
       "stats": [],
@@ -796,11 +796,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Життя Timmy обертається навколо їжі. він зголодніє швидше за інших та, час від часу, бореться з бажанням ненажерливого пожирання, навіть коли голод відсутній.",
       "stats": [
-        "Only mental break \"Binging_Food\" allowed.",
+        "Лише психічний зрив \"Binging_Food\" дозволено.",
         "+4 Кулінарія"
       ],
       "conflicts": [
@@ -812,7 +812,7 @@
           "аскетизм"
         ],
         "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
+          "Лише психічний зрив \"Binging_Food\" дозволено.",
           "+4 Кулінарія"
         ],
         "canBypassLimit": false,
@@ -828,7 +828,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy не потребує стільки сну, як звичайна людина. Незалежно від того, спить він на ліжку чи на землі, він повністю відпочине приблизно за дві третини від звичайного часу.",
       "stats": [
@@ -854,11 +854,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy завжди відстає від групи, куди б ті не пішли.",
       "stats": [
-        "Енергійність inspiration disabled.",
+        "Натхнення \"Енергійність\" вимкнено.",
         "-0.20 швидкість руху"
       ],
       "conflicts": [],
@@ -866,7 +866,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Енергійність inspiration disabled.",
+          "Натхнення \"Енергійність\" вимкнено.",
           "-0.20 швидкість руху"
         ],
         "canBypassLimit": false,
@@ -882,7 +882,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy обожнює бути попереду всіх. він ходить швидше, ніж більшість людей.",
       "stats": [
@@ -908,7 +908,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy завжди рухається настільки швидко, що інші не можуть за PAWN_gender ? ним : нею угнатись.",
       "stats": [
@@ -934,7 +934,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy отримує неймовірне задоволення від хімічних речовин. Вживання легких наркотиків покращує настрій, а утримання навпаки - призведе до зростання розчарування з часом і, можливо, до вживання більш важких наркотиків. він ігноруватиме накази не вживати легкі наркотики та вживатиме більше, ніж звичайна людина.",
       "stats": [],
@@ -956,7 +956,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy отримує значне задоволення від хімічних речовин. Вживання легких наркотиків покращує настрій, а утримання навпаки - призведе до зростання розчарування з часом і, можливо, до вживання більш важких наркотиків. він ігноруватиме накази не вживати легкі наркотики та вживатиме більше, ніж звичайна людина.",
       "stats": [],
@@ -978,20 +978,20 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy ненавидить ідею отримання задоволення від хімікатів. він всіляко уникає алкоголю та наркотиків.",
       "stats": [
-        "Тяга до наркотиків mental state disabled.",
-        "Тяга до наркотиків mental state disabled."
+        "Психічний стан \"Тяга до наркотиків\" вимкнено.",
+        "Психічний стан \"Тяга до наркотиків\" вимкнено."
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "Тяга до наркотиків mental state disabled.",
-          "Тяга до наркотиків mental state disabled."
+          "Психічний стан \"Тяга до наркотиків\" вимкнено.",
+          "Психічний стан \"Тяга до наркотиків\" вимкнено."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1006,7 +1006,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy залишається PAWN_gender ? оптимістом : оптимісткою попри всі негаразди.",
       "stats": [],
@@ -1028,7 +1028,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy неймовірно оптимістично дивиться на життя. його важко вивести із себе.",
       "stats": [],
@@ -1050,7 +1050,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy як правило у всьому бачить негатив.",
       "stats": [],
@@ -1072,7 +1072,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy постійно страждає. йому важко підтримувати гарний настрій, навіть коли все добре.",
       "stats": [],
@@ -1094,7 +1094,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy володіє волею, міцною як сталь. він не здається і не панікує в тих ситуаціях, коли інші опускають руки.",
       "stats": [
@@ -1120,7 +1120,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy володіє вродженою психологічною стійкістю. його важко вивести із себе.",
       "stats": [
@@ -1146,7 +1146,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy легко виходить із себе.",
       "stats": [
@@ -1172,7 +1172,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy завжди нервується. він частіше за інших здається в складних ситуаціях.",
       "stats": [
@@ -1198,7 +1198,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy любить, щоб усе було як треба. він буде важче за інших працювати для досягнення цих цілей, але його нерви можуть не витримати такого навантаження.",
       "stats": [
@@ -1226,7 +1226,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy постійно нервує через усе, що потрібно зробити. він буде працювати на межі людських можливостей, але його нерви можуть не витримати такого неймовірного навантаження.",
       "stats": [
@@ -1254,7 +1254,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy зосереджено й з завзяттям виконує будь яку роботу, а тому працює швидше за інших.",
       "stats": [
@@ -1280,7 +1280,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy горить своєю роботою, а тому працює зі швидкістю про яку інші й мріяти не сміють.",
       "stats": [
@@ -1306,7 +1306,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy трохи PAWN_gender ? ледачий : ледача.",
       "stats": [
@@ -1332,7 +1332,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy любить байдикувати і ненавидить працювати. він рухається повільно і часто \"літає в хмарах\" під час роботи.",
       "stats": [
@@ -1358,7 +1358,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy — дуже чуйна, і ніжна людина. він надзвичайно чутливий до психічних явищ.",
       "stats": [
@@ -1384,7 +1384,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy має незвичайну чутливість до психічних явищ.",
       "stats": [
@@ -1410,7 +1410,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy — психічно стійка особистість, яку мало що зможе потурбувати.",
       "stats": [
@@ -1436,7 +1436,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy завжди на своїй хвилі. Ніщо не може його потурбувати.",
       "stats": [
@@ -1462,7 +1462,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy більше часу витрачає на прицілювання. Проте він стріляє точніше за рахунок меншої скорострільності.",
       "stats": [
@@ -1494,7 +1494,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Пах! Пах! Пах! Timmy любить натискати на гачок. він стріляє швидше за інших, але з меншою точністю.",
       "stats": [
@@ -1526,7 +1526,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy — людина надзвичайної краси, з екзотичним, але привабливим обличчям та поглядом PAWN_gender ? бога : богині. він зачаровує людей ще до того як почне говорити.",
       "stats": [
@@ -1552,7 +1552,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy має гарне обличчя, що змушує людей любити його.",
       "stats": [
@@ -1578,7 +1578,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy має потворний вигляд, що не найкращим чином впливає на відносини з іншими людьми.",
       "stats": [
@@ -1604,7 +1604,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy — людина неймовірної потворності. його обличчя виглядає як щось середнє між малюнком безталанної дитини, деформованим плодом у баночці з формальдегідом і твором сучасного мистецтва. Інші повинні докладати значних зусиль, щоб дивитися на PAWN_gender ? нього : неї під час розмови",
       "stats": [
@@ -1630,7 +1630,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy від природи має потужну імунну систему. він виробляє імунітет набагато швидше, ніж інші люди, що дозволяє йому пережити хвороби, які вб’ють інших.",
       "stats": [
@@ -1656,7 +1656,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy має жахливу імунну систему. він хворіє частіше, ніж зазвичай, часто хворобами, якими ніхто в колонії не хворів.",
       "stats": [
@@ -1749,7 +1749,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "людина",
-      "price": 1500
+      "price": 2000
     }
   ]
 }

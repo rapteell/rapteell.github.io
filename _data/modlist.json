@@ -6,6 +6,12 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Visual Exceptions",
+    "steamId": "2538411704",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -42,12 +48,6 @@
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.11+fb08cf0c8ced2b8463f6ea26928b369e0796a3a0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -74,12 +74,6 @@
   {
     "author": "Peppsen",
     "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ren7z",
-    "name": "Clean Textures",
     "steamId": null,
     "version": null
   },
@@ -146,8 +140,8 @@
   {
     "author": "Divinorium",
     "name": "Tainted Renaming",
-    "steamId": null,
-    "version": null
+    "steamId": "2021251001",
+    "version": "1.0.0+a28aaca61d005c2dc5305237523f88e47f53ad60"
   },
   {
     "author": "PeteTimesSix",
@@ -186,16 +180,16 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.0.0+a59cb1c900db16a73a667798a92ee4876648cb72"
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
     "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "nry",
@@ -216,6 +210,18 @@
     "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
     "author": "Ananac_0",
     "name": "Allow Tool UA",
     "steamId": null,
@@ -224,6 +230,12 @@
   {
     "author": "Farxmai2",
     "name": "Українська мова для Dubs Mods [UA]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farxmai2",
+    "name": "Українська мова для базової гри та модів [UA]",
     "steamId": null,
     "version": null
   }
